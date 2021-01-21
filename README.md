@@ -1,6 +1,6 @@
 # FCvsCNN
 
-In theory CNNs have better performance with fewer parameters, hence less memory and computing consumption. CNNs are able to handle image data that is infeasible using only FC layers. 
+In theory CNNs have better performance with fewer parameters, hence less memory and computing consumption.
 
 Let's test it!
 
