@@ -3,4 +3,5 @@ tensorflow==1.14.0
 keras==2.2.4
 scikit-image
 matplotlib
-opencv-python-headless
+opencv-python-headless==4.3.0.36
+protobuf==3.20.1
