@@ -8,7 +8,7 @@ Let's test it!
 
 
  in Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/knave88/Face_detection/blob/main/POB_Lab14_mnist_2025.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/knave88/FCvsCNN/blob/main/POB_Lab14_mnist_2025.ipynb)
 
 
 
